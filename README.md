@@ -1,6 +1,6 @@
 ### Hi there 👋, take a look at my latest [project](https://github.com/luksab/HiRISE):
 [![HiRISE](https://github.com/luksab/luksab/blob/master/marsDemo.png?raw=true)](https://github.com/luksab/HiRISE)
-It's written in Opengl using my custom mini-engine and satellite images from [HiRISE](https://www.uahirise.org/)
+It's written in Opengl using my custom mini-engine and satellite images from [HiRISE](https://www.uahirise.org/).
 <!--
 **luksab/luksab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
