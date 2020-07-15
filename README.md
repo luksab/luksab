@@ -1,5 +1,5 @@
 ### Hi there 👋, take a look at my latest project:
-![HiRISE](marsDemo.png)
+![HiRISE](https://github.com/luksab/luksab/blob/master/marsDemo.png?raw=true)
 <!--
 **luksab/luksab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
