@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lukas and these are a couple of my favorite projects on here:
+## Hi there 👋 I'm Lukas and these are a couple of my favorite projects on here:
 ### [HiRISE](https://github.com/luksab/HiRISE)
 is written in Opengl using my custom mini-engine and satellite images from [HiRISE](https://www.uahirise.org/):
 
