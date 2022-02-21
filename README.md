@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Lukas and these are a couple of my favorite projects on here:
-### [Polynomial Optics](https://github.com/luksab/wgpu_test)
+### [Polyflare](https://github.com/luksab/polyflare)
 My Bachelor's thesis is on using polynomial optics to efficiently render lens flares:
 
 [<img src='https://github.com/luksab/luksab/blob/master/lens.jpg?raw=true' width='600'>](https://github.com/luksab/wgpu_test)
