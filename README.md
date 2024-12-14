@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lukas and here are a couple of my favorite projects:
+## Hi there 👋 I'm Emma and here are a couple of my favorite projects:
 ### [Polyflare](https://github.com/luksab/polyflare)
 My Bachelor's thesis is on using polynomial optics to efficiently render lens flares:
 
